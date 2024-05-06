@@ -4,7 +4,7 @@ Meu nome é Luis Guilherme Pereira Dias
 
 - Estou estudando com [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
-- Utiliso esse espaço para minha organização e compartilhammento ded meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhammento ded meus projetos desenvolvidos
 
 ### Você pode entra em contato 
 
